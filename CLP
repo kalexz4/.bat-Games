@@ -2,3 +2,4 @@
 title Coding Luanguage Projector
 echo Projector system activated...
 echo Projecting .bat / .batch succesful
+pause
